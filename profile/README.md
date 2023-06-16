@@ -5,4 +5,4 @@ The students, organized into working groups, will start from the selection of a 
 During the training course, students will be introduced to tools and methodologies that aim to develop their communicative, graphic and design skills, making them more aware of the role they can assume in the communication and rendering of complex issues and information.
 Together with the final project, individual tests will be assigned during the course with the aim of evaluating the technical and design growth of the students.
 
-Professors: Giorgio Uboldi (Calibro), Marco Luitprandi.+
+Professors: Giorgio Uboldi (Calibro), Marco Luitprandi.
