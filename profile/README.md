@@ -17,4 +17,4 @@ https://information-design-lab.github.io/bestiario-dell-adriatico/
 
 Mezz’aria
 Autori: Greta Baltieri, Claudia Ciulla, Maria Letizia Di Gennaro, Alex Giuliano
-https://github.com/Information-Design-Lab/mezzaria
+[https://github.com/Information-Design-Lab/mezzaria](https://information-design-lab.github.io/mezzaria/)https://information-design-lab.github.io/mezzaria/
