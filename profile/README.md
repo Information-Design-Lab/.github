@@ -6,3 +6,15 @@ During the training course, students will be introduced to tools and methodologi
 Together with the final project, individual tests will be assigned during the course with the aim of evaluating the technical and design growth of the students.
 
 Professors: Giorgio Uboldi (Calibro), Marco Luitprandi.
+
+Sottosale
+Autori: Alice Di Francescantonio, Linda Francesca Amodeo, Marta Mezzetti, Nicolò Sinatra
+https://information-design-lab.github.io/sotto-sale/
+
+Bestiario dell’Adriatico
+Autori: Alessia Gravina, Enrico Giunchedi, Paola Moroni, Federica Rossi
+https://information-design-lab.github.io/bestiario-dell-adriatico/
+
+Mezz’aria
+Autori: Greta Baltieri, Claudia Ciulla, Maria Letizia Di Gennaro, Alex Giuliano
+https://github.com/Information-Design-Lab/mezzaria
